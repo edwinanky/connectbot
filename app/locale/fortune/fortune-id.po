@@ -30,7 +30,7 @@ msgstr "Sederhana, tangguh, klien SSH dengan kode terbuka."
 #. running apps list
 msgctxt "service_desc"
 msgid "Maintains SSH connections and loaded pubkeys"
-msgstr "Mengelola koneksi SSH dan kunci publik  yang terrekam"
+msgstr "Mengelola koneksi SSH dan kunci publik yang terekam"
 
 #. Window title for the Host List
 msgctxt "title_hosts_list"
@@ -105,13 +105,13 @@ msgid ""
 "Long-press on your Android desktop to create direct shortcuts to frequently-"
 "used SSH hosts."
 msgstr ""
-"Long-press pada destop Android untuk membuat jalan pintas ke Host yang "
+"Tekan lama pada desktop Android untuk membuat jalan pintas ke Host yang "
 "sering digunakan."
 
 #. Header text for instructions about scrolling the terminal.
 msgctxt "scroll_hints_header"
 msgid "Scroll back / Scroll forward"
-msgstr "Gulung mundur / Gulung maju"
+msgstr "Gulir kembali / Gulir maju"
 
 #. Instructions about scrolling the terminal.
 msgctxt "scroll_hints_content"
@@ -123,11 +123,11 @@ msgstr ""
 #. Captions for images showing the scroll back/forward gestures.
 msgctxt "scrolling_back"
 msgid "Scrolling back"
-msgstr "Menggulung mundur"
+msgstr "Menggulir kembali"
 
 msgctxt "scrolling_forward"
 msgid "Scrolling forward"
-msgstr "Menggulung maju"
+msgstr "Menggulir maju"
 
 #. Header text for instructions about paging up and down in the terminal.
 msgctxt "page_updn_header"
@@ -147,15 +147,15 @@ msgstr ""
 #. Captions for images showing the page up/down gestures.
 msgctxt "page_up"
 msgid "Page up"
-msgstr "Keatas Laman"
+msgstr "Laman Atas"
 
 msgctxt "page_down"
 msgid "Page down"
-msgstr "Kebawah Laman"
+msgstr "Laman Bawah"
 
 msgctxt "switching_hosts_header"
 msgid "Switching Hosts"
-msgstr "Menukar Host"
+msgstr "Mengganti Host"
 
 #. Instructions about switching to the next and previous host in the terminal.
 msgctxt "switching_hosts_content"
@@ -176,13 +176,13 @@ msgstr "Host Sebelumnya"
 #. Title for the help dialog showing keyboard shortcuts.
 msgctxt "keyboard_shortcuts"
 msgid "Keyboard Shortcuts"
-msgstr "Pintasan Papan Ketik"
+msgstr "Jalan Pintas Papan Ketik"
 
 #. Text in a keyboard shortcuts list lined up to keys which increase the
 #. terminal font-size.
 msgctxt "increase_font_size"
 msgid "Increase Font Size"
-msgstr "Besarkan Ukuran Fonta"
+msgstr "Besarkan Ukuran Font"
 
 #. Keyboard shortcut for increasing the font size.
 msgctxt "increase_font_shortcut"
@@ -222,7 +222,7 @@ msgstr "Kumpulkan Entropy"
 #, c-format
 msgctxt "pubkey_touch_prompt"
 msgid "Touch this box to gather randomness: %1$d%% done"
-msgstr "Sentuh boks ini untuk mengumpulkan ke tidak tentuan: %1$d%% selesai"
+msgstr "Sentuh kotak ini untuk mengumpulkan ketidaktentuan: %1$d%% selesai"
 
 msgctxt "pubkey_touch_hint"
 msgid ""
@@ -415,7 +415,7 @@ msgid ""
 "Someone could be eavesdropping on you right now (man-in-the-middle attack)!\n"
 "It is also possible that the host key has just been changed."
 msgstr ""
-"KEMUNGKINAN SESEORANG SEDANG BERBUAT KOTOR!\n"
+"KEMUNGKINAN SESEORANG SEDANG BERBUAT JAHAT!\n"
 "Seseorang mungkin tengah menyadap anda saat ini (serangan man-in-the-"
 "middle)!\n"
 "Mungkin juga kunci host baru saja diubah."
@@ -451,7 +451,7 @@ msgstr "Authentifikasi dari host '%1$s' tidak dapat dibuat."
 #, c-format
 msgctxt "host_fingerprint"
 msgid "Host %1$s key fingerprint is %2$s"
-msgstr "Host %1$s tanda tangan kunci adalah %2$s"
+msgstr "Host %1$s sidik jari kunci adalah %2$s"
 
 msgctxt "alert_passwords_do_not_match_msg"
 msgid "Passwords do not match!"
@@ -581,7 +581,7 @@ msgstr "Sembunyikan bar status ketika dalam konsol"
 #. The category title for keyboard preferences
 msgctxt "pref_keyboard_category"
 msgid "Keyboard"
-msgstr "Papan tik"
+msgstr "Papan ketik"
 
 #. Name for the shifted numbers are f-keys preference
 msgctxt "pref_shiftfkeys_title"
