@@ -741,7 +741,7 @@ msgstr ""
 #. shortcuts.
 msgctxt "list_keymode_right"
 msgid "Use right-side keys"
-msgstr "Gunakan tombol sisi kanan"
+msgstr "Gunakan tombol sisi-kanan"
 
 #. Preference selection to indicate use of left side of keyboard for special
 #. shortcuts.
@@ -793,7 +793,7 @@ msgstr "Gunakan SSH auth agent"
 #. Host post-login automation preference title
 msgctxt "hostpref_postlogin_title"
 msgid "Post-login automation"
-msgstr "otomasi setelah login"
+msgstr "Otomatisasi setelah login"
 
 #. Host post-login automation preference summary
 msgctxt "hostpref_postlogin_summary"
@@ -819,7 +819,7 @@ msgstr "Jalankan sesi shell"
 #. connection or not
 msgctxt "hostpref_wantsession_summary"
 msgid "Disable this preference to only use port forwards"
-msgstr "Non-aktifkan kesukaan ini hanya untuk port forwards"
+msgstr "Non-aktifkan pilihan ini hanya untuk port forwards"
 
 #. Setting for whether the host should be reconnected to automatically upon
 #. disconnect
@@ -968,12 +968,12 @@ msgstr ""
 #. Part of the formatting hints that will be used like: username@hostname:port
 msgctxt "format_username"
 msgid "username"
-msgstr "pengguna"
+msgstr "Nama pengguna"
 
 #. Part of the formatting hints that will be used like: username@hostname:port
 msgctxt "format_hostname"
 msgid "hostname"
-msgstr "namahost"
+msgstr "Nama host"
 
 #. Part of the formatting hints that will be used like: username@hostname:port
 msgctxt "format_port"
@@ -1004,7 +1004,7 @@ msgstr "Pengaturan"
 
 msgctxt "list_host_disconnect"
 msgid "Disconnect"
-msgstr "Putus koneksi"
+msgstr "Koneksi terputus"
 
 msgctxt "list_host_edit"
 msgid "Edit host"
@@ -1164,7 +1164,7 @@ msgstr "Mencoba otentifikasi 'kata sandi'"
 
 msgctxt "terminal_auth_pass_fail"
 msgid "Authentication method 'password' failed"
-msgstr "Metoda otentifikasi 'kata sandi' gagal"
+msgstr "Metode otentifikasi 'kata sandi' gagal"
 
 msgctxt "terminal_auth_pubkey_any"
 msgid "Attempting 'publickey' authentication with any in-memory public keys"
